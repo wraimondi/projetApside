@@ -1,27 +1,30 @@
 {
-  {
-    "name": "test_texte_doc",
-    "type": "doc",
-    "path": "test_texte_doc"
-  },
-  {
-    "name": "test_second_texte_doc",
-    "type": "doc",
-    "path": "test_second_texte_doc"
-  },
-  {
-    "name": "test_texte_pdf",
-    "type": "pdf",
-    "path": "test_texte_pdf"
-  }, 
-  {
-    "name": "test_texte_xls",
-    "type": "xls",
-    "path": "test_texte_xls"
-  },
-  {
-    "name": "test_final_texte_doc",
-    "type": "doc",
-    "path": "test_final_texte_doc"
-  }
+  "fichiers":
+  [
+    {
+      "name": "test_texte_doc",
+      "type": "doc",
+      "path": "test_texte_doc"
+   },
+    {
+      "name": "test_second_texte_doc",
+      "type": "doc",
+      "path": "test_second_texte_doc"
+    },
+    {
+      "name": "test_texte_pdf",
+      "type": "pdf",
+      "path": "test_texte_pdf"
+    }, 
+    {
+      "name": "test_texte_xls",
+      "type": "xls",
+      "path": "test_texte_xls"
+    },
+    {
+      "name": "test_final_texte_doc",
+      "type": "doc",
+      "path": "test_final_texte_doc"
+    }
+  ] 
 }
