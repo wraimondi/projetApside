@@ -1,7 +1,7 @@
 {
   "motrecherche": {
     "name": "java"
-  }
+  },
   
    "resultat": {
     "name": ["document1", "document2", "document3"]
