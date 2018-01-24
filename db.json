@@ -1,5 +1,4 @@
 {
-  [
   {
     "name": "test_texte_doc",
     "type": "doc",
@@ -25,5 +24,4 @@
     "type": "doc",
     "path": "test_final_texte_doc"
   }
-  ]
 }
