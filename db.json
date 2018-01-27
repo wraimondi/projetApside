@@ -4,27 +4,27 @@
     {
       "name": "test_texte_doc",
       "type": "doc",
-      "path": "test_texte_doc"
+      "path": "test_texte_doc.doc"
    },
     {
       "name": "test_second_texte_doc",
       "type": "doc",
-      "path": "test_second_texte_doc"
+      "path": "test_second_texte_doc.doc"
     },
     {
       "name": "test_texte_pdf",
       "type": "pdf",
-      "path": "test_texte_pdf"
+      "path": "test_texte_pdf.pdf"
     }, 
     {
       "name": "test_texte_xls",
       "type": "xls",
-      "path": "test_texte_xls"
+      "path": "test_texte_xls.xls"
     },
     {
       "name": "test_final_texte_doc",
       "type": "doc",
-      "path": "test_final_texte_doc"
+      "path": "test_final_texte_doc.doc"
     }
   ] 
 }
