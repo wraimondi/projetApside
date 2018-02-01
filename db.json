@@ -2,19 +2,19 @@
   "fichiers":
   [
     {
-      "name": "test_texte_doc",
+      "name": "Dossier de compétence - PHILIPPE Sylvain",
       "type": "doc",
-      "path": "test_texte_doc.doc"
+      "path": "Dossier de compétence - PHILIPPE Sylvain.doc"
    },
     {
-      "name": "test_second_texte_doc",
+      "name": "Dossier de compétence - CADIC Sarah",
       "type": "doc",
-      "path": "test_second_texte_doc.doc"
+      "path": "Dossier de compétence - CADIC Sarah.doc"
     },
     {
-      "name": "test_texte_pdf",
+      "name": "Dossier de compétence - PHILIPPE Sylvain",
       "type": "pdf",
-      "path": "test_texte_pdf.pdf"
+      "path": "Dossier de compétence - PHILIPPE Sylvain.pdf"
     }, 
     {
       "name": "test_texte_xls",
@@ -22,9 +22,9 @@
       "path": "test_texte_xls.xls"
     },
     {
-      "name": "test_final_texte_doc",
+      "name": "Dossier de compétence - RAIMONDI Wilfried",
       "type": "doc",
-      "path": "test_final_texte_doc.doc"
+      "path": "Dossier de compétence - RAIMONDI Wilfried.doc"
     }
   ] 
 }
